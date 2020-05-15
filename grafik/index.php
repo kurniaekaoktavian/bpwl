@@ -80,7 +80,7 @@ var theme = {
 // tui.chart.registerTheme('myTheme', theme);
 // options.theme = 'myTheme';
 
-tui.chart.barChart(container, data, options);
+tui.chart.columnChart(container, data, options);
 </script>
 
 <!--For tutorial page-->
